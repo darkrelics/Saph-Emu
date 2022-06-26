@@ -21,13 +21,13 @@ Use it to have fun exploring with a few friends, that's all.
 
 Dependencies:
 
-- Python 3.4+
+- Python 3.8+
 - MySQL
 - Peewee, the Python ORM used
 - Python MySQL driver
 - PyShgck
 
-### Python 3.4+
+### Python 3.8+
 
 Get that from their website.
 
